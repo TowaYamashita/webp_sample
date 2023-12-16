@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "Dart-Code.flutter",
+    "Dart-Code.dart-code",
+    "gaetschwartz.build-runner",
+    "davidwoo.flutter-auto-import",
+    "usernamehw.errorlens",
+    "EditorConfig.EditorConfig"
+  ]
+}
