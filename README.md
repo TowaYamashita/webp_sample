@@ -18,6 +18,9 @@ Doctor summary (to see all details, run flutter doctor -v):
 [✓] Network resources
 
 • No issues found!
+
+❯ pod --version
+1.5.2
 ```
 
 ## Setup
