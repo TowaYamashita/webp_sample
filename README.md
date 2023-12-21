@@ -3,7 +3,7 @@
 ## Environment
 
 ```shell
-❯ fvm --version     
+❯ fvm --version
 2.4.1
 
 ❯ fvm flutter doctor
@@ -24,8 +24,8 @@ Doctor summary (to see all details, run flutter doctor -v):
 - 以下のコマンドを実行して、 使用するFlutterのバージョンの設定やパッケージの取得を行う
 
 ```shell
-git clone https://github.com/TowaYamashita/riverpod_v2_tutorial.git
-cd riverpod_v2_tutorial
+git clone https://github.com/TowaYamashita/webp_sample.git
+cd webp_sample
 fvm install
 fvm flutter pub get
 ```
