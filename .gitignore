@@ -45,6 +45,3 @@ app.*.map.json
 
 # fvm
 .fvm/flutter_sdk
-
-# local gem
-ios/vendor

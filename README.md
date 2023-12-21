@@ -18,12 +18,6 @@ Doctor summary (to see all details, run flutter doctor -v):
 [✓] Network resources
 
 • No issues found!
-
-❯ rbenv --version
-rbenv 1.2.0-72-g5d78e47
-
-❯ bundler --version
-Bundler version 2.4.19
 ```
 
 ## Setup
